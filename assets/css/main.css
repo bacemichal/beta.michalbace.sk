@@ -196,4 +196,19 @@ footer {
         grid-template-columns: 1fr;
     }
 
+    .hero {
+        padding-bottom: 2rem;
+    }
+
+
+    .site-nav {
+        padding-bottom: 8rem;
+    }
+
+
+
+    
+
+
+
 }
