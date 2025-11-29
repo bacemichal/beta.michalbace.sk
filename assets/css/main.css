@@ -34,7 +34,8 @@ a {
 --ff-heading: 'obv';
 
 --fs-100: 1rem;
---fs-200: clamp(3rem, 4vw + 1rem, 6rem);
+--fs-200: clamp(36px, 3vw + 20px, 66px);
+
 
 --fw-100: 300;
 }
@@ -98,7 +99,7 @@ nav ul {
 }
 
 .hero {
-    padding-block: clamp(4rem, 20vh, 24rem);
+    padding-block: clamp(120px, 10vw + 40px, 200px);
 }
 
 img, video {
@@ -194,16 +195,6 @@ footer {
 
     .case__layout {
         grid-template-columns: 1fr;
-    }
-
-    .hero.main {
-        padding-bottom: 3rem;
-        padding-top: 4rem;
-    }
-
-
-    .site-nav {
-        padding-bottom: 4rem;
     }
 
 
