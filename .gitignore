@@ -1,0 +1,9 @@
+# npm balíčky
+node_modules/
+
+# build priečinok (ak by si neskôr používal Vite alebo Parcel)
+dist/
+
+# systémové súbory (neporiadok z OS)
+.DS_Store
+Thumbs.db
