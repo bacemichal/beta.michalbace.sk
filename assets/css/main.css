@@ -98,7 +98,7 @@ nav ul {
 }
 
 .hero {
-    padding-block: clamp(8rem, 20vh, 24rem);
+    padding-block: clamp(8rem, 10vh, 24rem);
 }
 
 img, video {
