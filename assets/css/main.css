@@ -98,7 +98,7 @@ nav ul {
 }
 
 .hero {
-    padding-block: clamp(8rem, 10vh, 24rem);
+    padding-block: clamp(4rem, 10vh, 24rem);
 }
 
 img, video {
@@ -197,12 +197,12 @@ footer {
     }
 
     .hero.main {
-        padding-bottom: 2rem;
+        padding-bottom: 3rem;
     }
 
 
     .site-nav {
-        padding-bottom: 8rem;
+        padding-bottom: 4rem;
     }
 
 
